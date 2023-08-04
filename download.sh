@@ -57,4 +57,5 @@ do
     echo "Checking checksums"
     (cd ${TARGET_FOLDER}"/${MODEL_PATH}" && md5sum -c checklist.chk)
 done
+https://download.llamameta.net/*?Policy=eyJTdGF0ZW1lbnQiOlt7InVuaXF1ZV9oYXNoIjoiP1x1MDU1OT9kP0siLCJSZXNvdXJjZSI6Imh0dHBzOlwvXC9kb3dubG9hZC5sbGFtYW1ldGEubmV0XC8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjkxMjcyNzE0fX19XX0_&Signature=Wl8QT%7EIFR004iE5yoAGE2d2PdhCli5TvxqxDhinOru3Ued9%7E1Jb4s5Ir4PO2onD95TbiD4BNTaFvHCWUMYkG-cv2Egn-8GyOs0Fcj71oxqszRyapSelef%7EyE0P0zYVlVqRM8bWAw23RdMM2dLWimsdINEBmOhjvGqz8nJGmbWAKeil2iyHy%7E4W6uIcICQddANrB81MYQt3m%7EnKvu4OA2dMk1GzWdRs-4%7Ep3lSaUfRN8FvSVORiHpmXgsFizwVzv8U-itU4YiraQH8zuwmHaZuUqhgJ%7EAObp4ZP-9FRxcy8CJQ7HF0mMJaSbLYZ9NaR7pLiTns4bxqpSkqO2fm-WyCw__&Key-Pair-Id=K15QRJLYKIFSLZ
 
